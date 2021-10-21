@@ -1,5 +1,3 @@
-# Astral Training Recordings
-
 ## Zoom Recording Download Links
 
 |       Date       |                                                                 Link                                                                 |
